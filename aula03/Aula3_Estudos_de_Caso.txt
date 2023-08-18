@@ -1,0 +1,10 @@
+Estudo de Caso 1:
+
+Como criar módulos contendo cliente e conta bancária, agrupá-los em um pacote e importá-los.
+
+
+Estudo de Caso 2:
+
+Crie um pacote personalizado para matemática que contenha seu módulo de frações e um módulo para formas geométricas que implemente classes para Retângulo, Quadrado, Triangulo, Circulo.
+
+https://araquelexplica-te.pt/wp-content/uploads/2020/01/%C3%81reas-de-figuras-planas-1536x1152.png

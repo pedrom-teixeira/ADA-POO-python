@@ -1,0 +1,5 @@
+Estudo de Caso 1:
+Como permitir o uso dos operadores aritméticos e de comparação do Python (+, -, *, /, >, <, ==, !=, <=, >=) entre objetos fração e imprimir os objetos corretamente utilizando print(objeto).
+
+Estudo de Caso 2:
+Como utilizar a própria classe cliente de aulas anteriores para armazenar, buscar e acessar todos os objetos cliente instanciados.
